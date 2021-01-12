@@ -5,4 +5,4 @@
 user$ pip_update
 ```  
 
-<font color="#EE0000">Enjoy.</font>
+$\color{#FF3030}{Enjoy.}$
