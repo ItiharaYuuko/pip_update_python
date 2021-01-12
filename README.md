@@ -1,2 +1,2 @@
-# <font color=red>Update all updatable packages for pip<font>
+# <font color=red>Update all updatable packages for pip</font>
 
